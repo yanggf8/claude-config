@@ -1,0 +1,68 @@
+[
+  {
+    "content": "Analyze next development phase options",
+    "status": "completed",
+    "priority": "high",
+    "id": "next-phase-analysis"
+  },
+  {
+    "content": "Import 200 sample DROs for testing",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "run-dro-import"
+  },
+  {
+    "content": "Debug and fix user registration API issue",
+    "status": "pending",
+    "priority": "high",
+    "id": "registration-issue"
+  },
+  {
+    "content": "Add startup dependency health checks",
+    "status": "completed",
+    "priority": "high",
+    "id": "health-checks"
+  },
+  {
+    "content": "Configure R2 backup system",
+    "status": "completed",
+    "priority": "medium",
+    "id": "r2-configuration"
+  },
+  {
+    "content": "Add API token authentication for batch operations",
+    "status": "completed",
+    "priority": "high",
+    "id": "api-token-auth"
+  },
+  {
+    "content": "Test registration API with new server setup",
+    "status": "pending",
+    "priority": "high",
+    "id": "test-registration"
+  },
+  {
+    "content": "Create MSME users via batch API",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "create-msme-users"
+  },
+  {
+    "content": "Prepare for production deployment",
+    "status": "pending",
+    "priority": "high",
+    "id": "deployment-prep"
+  },
+  {
+    "content": "Set up monitoring and analytics",
+    "status": "pending",
+    "priority": "medium",
+    "id": "performance-monitoring"
+  },
+  {
+    "content": "Consider optional advanced features",
+    "status": "pending",
+    "priority": "low",
+    "id": "advanced-features"
+  }
+]

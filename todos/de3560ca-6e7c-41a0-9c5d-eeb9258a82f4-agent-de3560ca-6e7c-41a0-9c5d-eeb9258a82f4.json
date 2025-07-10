@@ -1,0 +1,74 @@
+[
+  {
+    "content": "Set up project structure with client/server folders",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Initialize React frontend with TypeScript and Tailwind CSS",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Set up Node.js backend with Express and TypeScript",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Configure CRDT (Yjs) + NeDB architecture proof of concept",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Set up basic user authentication system",
+    "status": "pending",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Integrate LINE Pay sandbox for payment testing",
+    "status": "pending",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Create basic event CRUD operations",
+    "status": "pending",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Implement user registration and login UI",
+    "status": "pending",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "Set up Cloudinary for image/video uploads",
+    "status": "pending",
+    "priority": "medium",
+    "id": "9"
+  },
+  {
+    "content": "Configure deployment to Render.com",
+    "status": "pending",
+    "priority": "medium",
+    "id": "10"
+  },
+  {
+    "content": "Create basic admin panel for event management",
+    "status": "pending",
+    "priority": "low",
+    "id": "11"
+  },
+  {
+    "content": "Set up environment variables and configuration",
+    "status": "completed",
+    "priority": "high",
+    "id": "12"
+  }
+]
