@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Replace glass morphism with clean flat/modern design for better demo visibility",
+    "status": "completed",
+    "priority": "high",
+    "id": "replace-glass-morphism"
+  },
+  {
+    "content": "Create component migration guide for developers",
+    "status": "completed",
+    "priority": "medium",
+    "id": "create-migration-guide"
+  },
+  {
+    "content": "Monitor Render deployment completion for CORS fix",
+    "status": "pending",
+    "priority": "medium",
+    "id": "monitor-deployment"
+  }
+]

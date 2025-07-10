@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Expand ZiWei calculation engine test coverage",
+    "status": "completed",
+    "priority": "high",
+    "id": "ziwei-engine-coverage"
+  },
+  {
+    "content": "Add comprehensive API endpoint integration tests",
+    "status": "completed",
+    "priority": "high",
+    "id": "api-endpoint-tests"
+  },
+  {
+    "content": "Expand frontend component test coverage",
+    "status": "completed",
+    "priority": "medium",
+    "id": "frontend-component-expansion"
+  },
+  {
+    "content": "Add authentication service comprehensive tests",
+    "status": "completed",
+    "priority": "medium",
+    "id": "auth-service-tests"
+  },
+  {
+    "content": "Create performance and stress tests",
+    "status": "completed",
+    "priority": "low",
+    "id": "performance-tests"
+  }
+]

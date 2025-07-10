@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Fix CORS/security blocking API routes",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create health API interface for server status verification",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Test auth endpoints after fixes",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  }
+]

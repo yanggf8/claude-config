@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Review the newly added frontend test files for completeness",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Run frontend tests to ensure they pass",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Check test coverage after adding the new test files",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Fix TypeScript errors in test files and components",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Fix remaining test failures (10 test suites failing)",
+    "status": "pending",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Fix import/export issues in LoginModal and BirthDataForm components",
+    "status": "pending",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Fix missing dependencies issue (@stripe/stripe-js)",
+    "status": "pending",
+    "priority": "low",
+    "id": "7"
+  },
+  {
+    "content": "Run full test coverage analysis after fixes",
+    "status": "pending",
+    "priority": "medium",
+    "id": "8"
+  },
+  {
+    "content": "Run final code quality checks (lint, format, type-check)",
+    "status": "pending",
+    "priority": "medium",
+    "id": "9"
+  },
+  {
+    "content": "Commit changes if all tests pass and quality checks succeed",
+    "status": "pending",
+    "priority": "low",
+    "id": "10"
+  }
+]

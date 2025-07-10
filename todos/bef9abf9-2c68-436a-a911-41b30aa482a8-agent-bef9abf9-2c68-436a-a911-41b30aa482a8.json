@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Initialize git repository in current directory",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create initial commit with existing files",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create remote repository on GitHub",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Add remote origin and push to GitHub",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  }
+]

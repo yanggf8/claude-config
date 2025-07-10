@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Install and configure Stripe SDK for payment processing",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create payment service for Stripe integration",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Add payment routes for investment and withdrawal flows",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Implement PayPal integration as alternative payment method",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Add payment method management for users",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Create payment history and receipt generation",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Test payment flows end-to-end",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  }
+]

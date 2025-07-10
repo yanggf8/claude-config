@@ -1,0 +1,14 @@
+[
+  {
+    "content": "Get schema version from database instead of hardcoded in R2BackupService.ts:200,394",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Implement metadata storage for status tracking in r2-backup.ts:258",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  }
+]

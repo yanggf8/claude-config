@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Add integration tests with mocked services for backend",
+    "status": "completed",
+    "priority": "high",
+    "id": "phase3-integration-tests"
+  },
+  {
+    "content": "Add comprehensive error scenario and edge case testing",
+    "status": "completed",
+    "priority": "high",
+    "id": "phase3-error-scenarios"
+  },
+  {
+    "content": "Add service layer comprehensive coverage tests",
+    "status": "completed",
+    "priority": "high",
+    "id": "phase3-service-layer"
+  },
+  {
+    "content": "Expand frontend component testing (ZiWeiChart, Auth)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "phase3-component-expansion"
+  },
+  {
+    "content": "Run comprehensive coverage reports to track 60% target",
+    "status": "completed",
+    "priority": "medium",
+    "id": "phase3-coverage-measurement"
+  }
+]

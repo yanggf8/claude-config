@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Implement warning notifications system in countdown timer",
+    "status": "completed",
+    "priority": "high",
+    "id": "phase1-warning-notifications"
+  },
+  {
+    "content": "Add sound notification system for completion and warnings",
+    "status": "completed",
+    "priority": "high",
+    "id": "phase1-sound-notifications"
+  },
+  {
+    "content": "Test warning and sound notification systems",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "test-phase1-features"
+  }
+]
