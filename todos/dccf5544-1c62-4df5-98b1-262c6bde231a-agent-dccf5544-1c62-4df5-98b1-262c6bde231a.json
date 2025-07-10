@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Create EventCard component with luxury design",
+    "status": "completed",
+    "priority": "high",
+    "id": "task6-1"
+  },
+  {
+    "content": "Build EventList component with search and filtering",
+    "status": "completed",
+    "priority": "high",
+    "id": "task6-2"
+  },
+  {
+    "content": "Implement EventDetail page with booking flow",
+    "status": "completed",
+    "priority": "high",
+    "id": "task6-3"
+  },
+  {
+    "content": "Create EventForm for CRUD operations (VIP+ only)",
+    "status": "completed",
+    "priority": "high",
+    "id": "task6-4"
+  },
+  {
+    "content": "Build event search and filtering interface",
+    "status": "completed",
+    "priority": "medium",
+    "id": "task6-5"
+  },
+  {
+    "content": "Implement participant management (premium_2500 only)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "task6-6"
+  },
+  {
+    "content": "Create EventsPage main interface",
+    "status": "completed",
+    "priority": "high",
+    "id": "task6-7"
+  },
+  {
+    "content": "Build useEvents hook for state management",
+    "status": "completed",
+    "priority": "high",
+    "id": "task6-8"
+  }
+]

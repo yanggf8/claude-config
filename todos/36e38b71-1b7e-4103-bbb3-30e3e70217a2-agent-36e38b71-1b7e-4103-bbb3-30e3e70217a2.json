@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Fix duplicate function definitions in app.js",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Remove functions already moved to modules",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Fix broken function calls and imports",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Fix orphaned code and syntax errors",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Test the refactored application",
+    "status": "completed",
+    "priority": "low",
+    "id": "5"
+  }
+]

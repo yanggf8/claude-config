@@ -1,0 +1,74 @@
+[
+  {
+    "content": "Fix test infrastructure: Copy conftest_fixed.py to conftest.py and resolve import issues",
+    "status": "pending",
+    "priority": "high",
+    "id": "test-infra-fix"
+  },
+  {
+    "content": "Implement core function tests for ZiWei calculations, palace operations, and date parsing",
+    "status": "pending",
+    "priority": "high",
+    "id": "backend-core-tests"
+  },
+  {
+    "content": "Add service layer tests for auth_service.py, fortune_service.py, and visitor_permission_service.py",
+    "status": "pending",
+    "priority": "high",
+    "id": "backend-service-tests"
+  },
+  {
+    "content": "Create utility function tests for validation, string processing, and error handling",
+    "status": "pending",
+    "priority": "medium",
+    "id": "backend-utility-tests"
+  },
+  {
+    "content": "Fix and expand component tests for BirthDataForm, LoginModal, and ZiWeiChart components",
+    "status": "pending",
+    "priority": "high",
+    "id": "frontend-component-tests"
+  },
+  {
+    "content": "Add service tests for api.ts, supabaseClient.ts, and warmupService.ts",
+    "status": "pending",
+    "priority": "medium",
+    "id": "frontend-service-tests"
+  },
+  {
+    "content": "Create tests for useAuth, useUnifiedAuth, and custom hooks",
+    "status": "pending",
+    "priority": "medium",
+    "id": "frontend-hook-tests"
+  },
+  {
+    "content": "Implement proper mocking for Supabase, Groq, OpenRouter, and other external dependencies",
+    "status": "pending",
+    "priority": "high",
+    "id": "mock-external-services"
+  },
+  {
+    "content": "Add integration tests with mocked external services for API endpoints and data flow",
+    "status": "pending",
+    "priority": "medium",
+    "id": "integration-tests"
+  },
+  {
+    "content": "Create comprehensive error handling and edge case tests",
+    "status": "pending",
+    "priority": "low",
+    "id": "error-handling-tests"
+  },
+  {
+    "content": "Set up automated coverage measurement and reporting for CI/CD",
+    "status": "pending",
+    "priority": "medium",
+    "id": "coverage-measurement"
+  },
+  {
+    "content": "Optimize test performance and execution time to under 2 minutes",
+    "status": "pending",
+    "priority": "low",
+    "id": "test-performance"
+  }
+]

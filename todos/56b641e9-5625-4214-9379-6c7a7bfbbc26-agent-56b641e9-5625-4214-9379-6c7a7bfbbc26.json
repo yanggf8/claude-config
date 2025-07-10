@@ -1,0 +1,8 @@
+[
+  {
+    "content": "Fix mobile spinner animation by adding missing spin keyframe to Tailwind config",
+    "status": "completed",
+    "priority": "high",
+    "id": "fix-mobile-spinner"
+  }
+]

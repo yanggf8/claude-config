@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Phase 1: Create comprehensive event_media table with all planned fields",
+    "status": "pending",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Phase 1: Add missing columns (source_type, sort_order) to existing event_media table",
+    "status": "pending",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Phase 1: Implement dual-write logic - write to both event_media table AND events.images column",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Phase 1: Implement dual-read logic - read from event_media with fallback to events.images",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Phase 1: Add URL media support alongside file uploads",
+    "status": "pending",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Phase 2: Create data migration script to backfill events.images data into event_media",
+    "status": "pending",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Phase 3: Remove events.images read/write logic, use only event_media table",
+    "status": "pending",
+    "priority": "low",
+    "id": "7"
+  },
+  {
+    "content": "Phase 4: Drop events.images column completely",
+    "status": "pending",
+    "priority": "low",
+    "id": "8"
+  }
+]

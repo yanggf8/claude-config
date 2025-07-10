@@ -1,0 +1,8 @@
+[
+  {
+    "content": "解決CORS問題 - 配置後端允許前端域名訪問",
+    "status": "completed",
+    "priority": "high",
+    "id": "cors-fix"
+  }
+]

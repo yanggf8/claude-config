@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Examine current backend server configurations",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Review environment variables and database configurations",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Consolidate to single DuckDB configuration",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Update package.json scripts",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Remove PostgreSQL and Redis dependencies",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  }
+]

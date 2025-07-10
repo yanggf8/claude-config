@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Identify legacy documentation files",
+    "status": "completed",
+    "priority": "high",
+    "id": "remove-legacy-1"
+  },
+  {
+    "content": "Remove outdated legacy files",
+    "status": "completed",
+    "priority": "high",
+    "id": "remove-legacy-2"
+  },
+  {
+    "content": "Update documentation index",
+    "status": "completed",
+    "priority": "medium",
+    "id": "remove-legacy-3"
+  },
+  {
+    "content": "Clean up any remaining references",
+    "status": "completed",
+    "priority": "medium",
+    "id": "remove-legacy-4"
+  }
+]

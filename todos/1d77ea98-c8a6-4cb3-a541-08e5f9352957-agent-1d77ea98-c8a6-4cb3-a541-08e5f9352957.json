@@ -1,0 +1,62 @@
+[
+  {
+    "content": "Create hesocial-duckdb bucket in Cloudflare R2",
+    "status": "completed",
+    "priority": "high",
+    "id": "r2-setup-cf-bucket"
+  },
+  {
+    "content": "Create hesocial-duckdb-dev bucket in Cloudflare R2",
+    "status": "pending",
+    "priority": "high",
+    "id": "r2-setup-cf-dev-bucket"
+  },
+  {
+    "content": "Generate R2 API tokens with edit permissions",
+    "status": "completed",
+    "priority": "high",
+    "id": "r2-setup-cf-tokens"
+  },
+  {
+    "content": "Configure R2 lifecycle rules (delete after 90 days)",
+    "status": "pending",
+    "priority": "medium",
+    "id": "r2-lifecycle-rules"
+  },
+  {
+    "content": "Install AWS SDK v3 in backend",
+    "status": "completed",
+    "priority": "high",
+    "id": "r2-install-aws-sdk"
+  },
+  {
+    "content": "Add R2 environment configuration to backend",
+    "status": "completed",
+    "priority": "high",
+    "id": "r2-env-config"
+  },
+  {
+    "content": "Create R2BackupService class",
+    "status": "completed",
+    "priority": "high",
+    "id": "r2-backup-service"
+  },
+  {
+    "content": "Implement graceful shutdown with auto-backup",
+    "status": "completed",
+    "priority": "high",
+    "id": "r2-graceful-shutdown"
+  },
+  {
+    "content": "Create manual backup API endpoint",
+    "status": "completed",
+    "priority": "high",
+    "id": "r2-manual-backup-api"
+  },
+  {
+    "content": "Test backup and restore functionality",
+    "status": "completed",
+    "priority": "high",
+    "id": "r2-test-backup-restore"
+  }
+]

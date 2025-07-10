@@ -1,0 +1,44 @@
+[
+  {
+    "content": "分析現有 EventDetailPage 和相關組件結構",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "創建 EventParticipants 頁面組件",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "實現 ParticipantCard 組件設計",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "創建 ParticipantList 組件",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "實現 PaymentGate 組件",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "添加參與者查看按鈕到 EventDetailPage",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "創建隱私設置界面",
+    "status": "completed",
+    "priority": "low",
+    "id": "7"
+  }
+]
