@@ -1,0 +1,8 @@
+[
+  {
+    "content": "Fix Dexie ES module import error",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  }
+]
