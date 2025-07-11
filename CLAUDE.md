@@ -10,3 +10,6 @@
   # If that doesn't work, try a full rebuild
   npm run build
   ```
+
+### Server Startup
+- When starting server, always ask the developer to confirm or initiate the startup process
