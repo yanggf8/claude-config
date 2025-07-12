@@ -1,0 +1,8 @@
+# Credentials and sensitive data
+.credentials.json
+
+# Project logs that may contain API keys
+projects/*/
+
+# Session data
+statsig/

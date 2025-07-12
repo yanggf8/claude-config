@@ -1,0 +1,218 @@
+[
+  {
+    "content": "Add periodic backup functionality with configurable intervals",
+    "status": "completed",
+    "priority": "medium",
+    "id": "1"
+  },
+  {
+    "content": "Create admin API endpoints for manual backup/restore operations",
+    "status": "completed",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "Implement health check endpoints with R2 sync status",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Add graceful shutdown handling with SIGTERM/SIGINT",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Implement actual login API call - replace TODO in LoginPage.tsx using FortuneT OAuth patterns",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Implement actual registration API call - replace TODO in RegisterPage.tsx",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Update project documentation with R2 integration details",
+    "status": "completed",
+    "priority": "high",
+    "id": "7"
+  },
+  {
+    "content": "Create admin service for admin API calls",
+    "status": "completed",
+    "priority": "high",
+    "id": "8"
+  },
+  {
+    "content": "Build AdminDashboard page with role-based access",
+    "status": "completed",
+    "priority": "high",
+    "id": "9"
+  },
+  {
+    "content": "Create BackupManagement component with manual backup controls",
+    "status": "completed",
+    "priority": "high",
+    "id": "10"
+  },
+  {
+    "content": "Add admin route protection middleware for frontend",
+    "status": "pending",
+    "priority": "medium",
+    "id": "11"
+  },
+  {
+    "content": "Implement admin navigation with role-based visibility",
+    "status": "pending",
+    "priority": "medium",
+    "id": "12"
+  },
+  {
+    "content": "Add backup list display with restore functionality",
+    "status": "completed",
+    "priority": "high",
+    "id": "13"
+  },
+  {
+    "content": "Create system health monitoring dashboard for admins",
+    "status": "pending",
+    "priority": "medium",
+    "id": "14"
+  },
+  {
+    "content": "Create user management API endpoints for admin operations",
+    "status": "completed",
+    "priority": "high",
+    "id": "15"
+  },
+  {
+    "content": "Build UserManagement page with user CRUD operations",
+    "status": "pending",
+    "priority": "high",
+    "id": "16"
+  },
+  {
+    "content": "Add user verification and role management functionality",
+    "status": "completed",
+    "priority": "high",
+    "id": "17"
+  },
+  {
+    "content": "Design event content management system architecture",
+    "status": "completed",
+    "priority": "high",
+    "id": "18"
+  },
+  {
+    "content": "Create event CRUD API endpoints with admin permissions",
+    "status": "completed",
+    "priority": "high",
+    "id": "19"
+  },
+  {
+    "content": "Implement event categories and venue management",
+    "status": "completed",
+    "priority": "high",
+    "id": "20"
+  },
+  {
+    "content": "Create event service for admin event API calls",
+    "status": "completed",
+    "priority": "high",
+    "id": "21"
+  },
+  {
+    "content": "Build EventManagement page with event CRUD operations",
+    "status": "completed",
+    "priority": "high",
+    "id": "22"
+  },
+  {
+    "content": "Add admin routes for event management interface",
+    "status": "completed",
+    "priority": "high",
+    "id": "23"
+  },
+  {
+    "content": "Create event creation and editing forms for admins",
+    "status": "completed",
+    "priority": "high",
+    "id": "24"
+  },
+  {
+    "content": "Separate event management routes from admin routes",
+    "status": "completed",
+    "priority": "high",
+    "id": "25"
+  },
+  {
+    "content": "Build VenueManagement page with venue CRUD operations",
+    "status": "completed",
+    "priority": "high",
+    "id": "26"
+  },
+  {
+    "content": "Implement event approval workflow interface",
+    "status": "pending",
+    "priority": "high",
+    "id": "27"
+  },
+  {
+    "content": "Create event media management (images, documents)",
+    "status": "pending",
+    "priority": "medium",
+    "id": "28"
+  },
+  {
+    "content": "Implement event scheduling and calendar management",
+    "status": "pending",
+    "priority": "medium",
+    "id": "29"
+  },
+  {
+    "content": "Design sales management system architecture",
+    "status": "pending",
+    "priority": "high",
+    "id": "30"
+  },
+  {
+    "content": "Create sales pipeline and lead management API",
+    "status": "pending",
+    "priority": "high",
+    "id": "31"
+  },
+  {
+    "content": "Implement membership sales tracking and analytics",
+    "status": "pending",
+    "priority": "high",
+    "id": "32"
+  },
+  {
+    "content": "Build sales dashboard with KPIs and metrics",
+    "status": "pending",
+    "priority": "high",
+    "id": "33"
+  },
+  {
+    "content": "Add event booking and payment processing integration",
+    "status": "pending",
+    "priority": "high",
+    "id": "34"
+  },
+  {
+    "content": "Create customer relationship management (CRM) features",
+    "status": "pending",
+    "priority": "medium",
+    "id": "35"
+  },
+  {
+    "content": "Implement revenue tracking and financial reporting",
+    "status": "pending",
+    "priority": "medium",
+    "id": "36"
+  }
+]

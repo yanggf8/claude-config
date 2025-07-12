@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Analyze current test implementation status - check what phase we're at according to docs/testing/README.md plan",
+    "status": "completed",
+    "priority": "high",
+    "id": "test-status-1"
+  },
+  {
+    "content": "Fix 31 failing tests - focus on integration and performance test issues",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "test-failures-2"
+  },
+  {
+    "content": "Fix integration test mocking issues in test_analysis_workflows.py",
+    "status": "completed",
+    "priority": "high",
+    "id": "integration-tests-3"
+  },
+  {
+    "content": "Fix all 15 failing performance tests in test_api_performance.py",
+    "status": "in_progress",
+    "priority": "medium",
+    "id": "performance-tests-4"
+  },
+  {
+    "content": "Improve unit test coverage gaps (app.py at 83%, ai_client.py at 90%)",
+    "status": "pending",
+    "priority": "low",
+    "id": "unit-test-coverage-5"
+  },
+  {
+    "content": "Implement Phase 3: Frontend & E2E browser testing (JavaScript, Selenium)",
+    "status": "pending",
+    "priority": "low",
+    "id": "phase3-frontend-6"
+  }
+]

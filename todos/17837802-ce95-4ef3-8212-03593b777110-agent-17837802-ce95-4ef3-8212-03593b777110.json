@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Research current membership system in FortuneT",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Design unified membership architecture",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Plan API integration between apps",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Implement shared authentication system",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "content": "Fix endpoint mismatches in e2e tests (/compatibility → /api/compatibility)",
+    "status": "completed",
+    "priority": "high",
+    "id": "fix-e2e-endpoints"
+  },
+  {
+    "content": "Fix AI function import/access issues in e2e user workflow tests",
+    "status": "completed",
+    "priority": "high",
+    "id": "fix-workflow-ai-imports"
+  },
+  {
+    "content": "Resolve integration test import and function issues",
+    "status": "completed",
+    "priority": "high",
+    "id": "fix-integration-imports"
+  },
+  {
+    "content": "Fix typos in integration tests (call_ai_with_fallover → call_ai_with_fallback)",
+    "status": "completed",
+    "priority": "high",
+    "id": "fix-integration-typos"
+  },
+  {
+    "content": "Fix analysis workflows integration test import issues",
+    "status": "completed",
+    "priority": "high",
+    "id": "fix-analysis-workflow-imports"
+  },
+  {
+    "content": "MAJOR ACHIEVEMENT: Improved integration/e2e pass rate from 12.3% to 48% (31/65 tests passing)",
+    "status": "completed",
+    "priority": "high",
+    "id": "major-improvement-achievement"
+  },
+  {
+    "content": "Fix multilang integration tests (16/16 failing)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "fix-multilang-integration"
+  },
+  {
+    "content": "MILESTONE: Achieved 67.7% pass rate (44/65 tests) - Major improvement from 12.3%!",
+    "status": "completed",
+    "priority": "high",
+    "id": "major-milestone-achievement"
+  },
+  {
+    "content": "Fix remaining e2e user workflow test issues (6/12 failing - language encoding, mock call counts)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "fix-remaining-e2e-issues"
+  },
+  {
+    "content": "NEW MILESTONE: Achieved 72.3% pass rate (47/65 tests) - Fixed all e2e user workflow tests!",
+    "status": "completed",
+    "priority": "high",
+    "id": "new-milestone-e2e-workflows"
+  },
+  {
+    "content": "🎉 TARGET ACHIEVED: 80% pass rate on integration/e2e tests (52/65 tests passing)!",
+    "status": "completed",
+    "priority": "high",
+    "id": "achieve-integration-pass-rate"
+  },
+  {
+    "content": "Fix remaining analysis workflow tests (11/17 failing)",
+    "status": "pending",
+    "priority": "medium",
+    "id": "fix-remaining-analysis-workflows"
+  },
+  {
+    "content": "Test dating app compatibility flow end-to-end",
+    "status": "completed",
+    "priority": "medium",
+    "id": "test-dating-compatibility"
+  },
+  {
+    "content": "Test workplace compatibility scenarios",
+    "status": "completed",
+    "priority": "medium",
+    "id": "test-workplace-compatibility"
+  },
+  {
+    "content": "Fix performance test endpoint and import issues",
+    "status": "pending",
+    "priority": "medium",
+    "id": "fix-performance-tests"
+  },
+  {
+    "content": "Update test documentation to reflect API-first architecture",
+    "status": "pending",
+    "priority": "low",
+    "id": "update-test-docs"
+  }
+]
