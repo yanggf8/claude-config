@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Identify and analyze current debugging issues",
+    "status": "completed",
+    "priority": "high",
+    "id": "debug-1"
+  },
+  {
+    "content": "Check application runtime errors or functionality issues",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "debug-2"
+  },
+  {
+    "content": "Test OAuth integration (Google) to ensure it's working",
+    "status": "pending",
+    "priority": "medium",
+    "id": "debug-3"
+  },
+  {
+    "content": "Verify AI analysis conversion flow works end-to-end",
+    "status": "pending",
+    "priority": "medium",
+    "id": "debug-4"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "content": "Fix mobile API security issues: CORS wildcard, input validation, error disclosure",
+    "status": "completed",
+    "priority": "high",
+    "id": "fix-mobile-security"
+  },
+  {
+    "content": "Add mobile UX improvements: gestures, swipe actions, pull-to-refresh",
+    "status": "completed",
+    "priority": "medium",
+    "id": "pwa-mobile-ux"
+  },
+  {
+    "content": "Improve PWA install experience with better prompts and splash screens",
+    "status": "completed",
+    "priority": "medium",
+    "id": "pwa-install-experience"
+  },
+  {
+    "content": "Enhance service worker with advanced caching, background sync, and push notifications",
+    "status": "completed",
+    "priority": "high",
+    "id": "pwa-enhanced-service-worker"
+  },
+  {
+    "content": "Implement advanced offline handling and cache management for analysis results",
+    "status": "completed",
+    "priority": "high",
+    "id": "pwa-offline-manager"
+  },
+  {
+    "content": "Implement push notification system for daily horoscopes",
+    "status": "completed",
+    "priority": "medium",
+    "id": "pwa-push-notifications"
+  },
+  {
+    "content": "Standardize mobile API response formats across all endpoints",
+    "status": "completed",
+    "priority": "medium",
+    "id": "standardize-api-responses"
+  },
+  {
+    "content": "Comprehensive testing on multiple devices and performance optimization",
+    "status": "completed",
+    "priority": "medium",
+    "id": "pwa-testing-optimization"
+  },
+  {
+    "content": "Add performance monitoring and analytics for PWA",
+    "status": "pending",
+    "priority": "low",
+    "id": "pwa-performance-monitor"
+  },
+  {
+    "content": "Set up Capacitor for native app wrapper (Phase 2)",
+    "status": "pending",
+    "priority": "low",
+    "id": "capacitor-setup"
+  },
+  {
+    "content": "Integrate native device features: camera, local storage, biometric auth",
+    "status": "pending",
+    "priority": "low",
+    "id": "capacitor-native-features"
+  },
+  {
+    "content": "Prepare for app store submission: screenshots, metadata, review process",
+    "status": "pending",
+    "priority": "low",
+    "id": "app-store-preparation"
+  },
+  {
+    "content": "Start working on the mobile app itself",
+    "status": "completed",
+    "priority": "high",
+    "id": "mobile-app-development"
+  },
+  {
+    "content": "Verify mobile backend implementation design and coding",
+    "status": "completed",
+    "priority": "high",
+    "id": "verify-mobile-backend"
+  },
+  {
+    "content": "Fix Chinese text to use Traditional Chinese (Taiwan) and ensure proper multilingual support",
+    "status": "completed",
+    "priority": "high",
+    "id": "fix-chinese-localization"
+  },
+  {
+    "content": "Refactor shared code for better API support",
+    "status": "pending",
+    "priority": "medium",
+    "id": "refactor-shared-code"
+  }
+]

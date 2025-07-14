@@ -7,19 +7,31 @@
   },
   {
     "content": "Create initial commit with existing files",
+<<<<<<< HEAD
     "status": "completed",
+=======
+    "status": "in_progress",
+>>>>>>> cff5ef164c0985486a4a2a7c33a3bd42c58cd079
     "priority": "high",
     "id": "2"
   },
   {
     "content": "Create remote repository on GitHub",
+<<<<<<< HEAD
     "status": "completed",
+=======
+    "status": "pending",
+>>>>>>> cff5ef164c0985486a4a2a7c33a3bd42c58cd079
     "priority": "high",
     "id": "3"
   },
   {
     "content": "Add remote origin and push to GitHub",
+<<<<<<< HEAD
     "status": "completed",
+=======
+    "status": "pending",
+>>>>>>> cff5ef164c0985486a4a2a7c33a3bd42c58cd079
     "priority": "high",
     "id": "4"
   }

@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Initialize project structure with package.json and basic folder structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Set up React frontend with TypeScript and Tailwind CSS",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Create Node.js/Express backend with TypeScript configuration",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Set up PostgreSQL database schema and models",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Implement basic authentication system with OAuth 2.0",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Create user registration with financial verification",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  },
+  {
+    "content": "Build event management system",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  },
+  {
+    "content": "Implement payment integration with Stripe",
+    "status": "completed",
+    "priority": "medium",
+    "id": "8"
+  }
+]

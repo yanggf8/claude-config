@@ -13,3 +13,5 @@
 
 ### Server Startup
 - When starting server, always ask the developer to confirm or initiate the startup process
+
+- update docs before commit

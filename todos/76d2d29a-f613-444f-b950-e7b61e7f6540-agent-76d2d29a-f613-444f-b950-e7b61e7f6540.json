@@ -1,0 +1,92 @@
+[
+  {
+    "content": "Build DRO listing frontend",
+    "status": "completed",
+    "priority": "medium",
+    "id": "14"
+  },
+  {
+    "content": "Create DRO listing components",
+    "status": "completed",
+    "priority": "high",
+    "id": "20"
+  },
+  {
+    "content": "Build investment interface",
+    "status": "completed",
+    "priority": "high",
+    "id": "21"
+  },
+  {
+    "content": "Create user dashboard pages",
+    "status": "completed",
+    "priority": "high",
+    "id": "22"
+  },
+  {
+    "content": "Add authentication forms",
+    "status": "completed",
+    "priority": "medium",
+    "id": "23"
+  },
+  {
+    "content": "Implement responsive navigation",
+    "status": "completed",
+    "priority": "medium",
+    "id": "24"
+  },
+  {
+    "content": "Set up backend server testing",
+    "status": "completed",
+    "priority": "high",
+    "id": "25"
+  },
+  {
+    "content": "Test database initialization",
+    "status": "completed",
+    "priority": "high",
+    "id": "28"
+  },
+  {
+    "content": "Test API endpoints with frontend",
+    "status": "completed",
+    "priority": "high",
+    "id": "29"
+  },
+  {
+    "content": "Add demo data for testing",
+    "status": "completed",
+    "priority": "high",
+    "id": "30"
+  },
+  {
+    "content": "Create sample users and DROs",
+    "status": "completed",
+    "priority": "high",
+    "id": "31"
+  },
+  {
+    "content": "Test full user registration flow",
+    "status": "completed",
+    "priority": "high",
+    "id": "32"
+  },
+  {
+    "content": "Debug database integration issues",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "33"
+  },
+  {
+    "content": "Add revenue reporting frontend",
+    "status": "pending",
+    "priority": "medium",
+    "id": "26"
+  },
+  {
+    "content": "Implement payment gateway integration",
+    "status": "pending",
+    "priority": "medium",
+    "id": "27"
+  }
+]
