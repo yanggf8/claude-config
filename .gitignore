@@ -1,0 +1,5 @@
+# Credentials and sensitive data
+.credentials.json
+statsig/statsig.cached.evaluations.*
+statsig/statsig.session_id.*
+statsig/statsig.last_modified_time.*

@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Move disabled components back to src/",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Fix TypeScript type import issues with proper syntax",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Restore full EventsPage with all CRUD functionality",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Reconnect authentication and permission system",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Restore offline DB and sync services",
+    "status": "completed",
+    "priority": "medium",
+    "id": "5"
+  },
+  {
+    "content": "Test and verify all functionality works",
+    "status": "completed",
+    "priority": "medium",
+    "id": "6"
+  }
+]

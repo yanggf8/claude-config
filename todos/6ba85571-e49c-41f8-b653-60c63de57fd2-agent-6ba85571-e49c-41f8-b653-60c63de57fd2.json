@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Fix NeDB date compatibility issue - util.isDate deprecated in Node.js",
+    "status": "completed",
+    "priority": "high",
+    "id": "fix-nedb-dates"
+  },
+  {
+    "content": "Test user registration endpoint after NeDB fix",
+    "status": "completed",
+    "priority": "high",
+    "id": "test-user-registration"
+  },
+  {
+    "content": "Test event creation endpoint after NeDB fix",
+    "status": "completed",
+    "priority": "medium",
+    "id": "test-event-creation"
+  }
+]
