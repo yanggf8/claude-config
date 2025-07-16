@@ -1,0 +1,14 @@
+[
+  {
+    "content": "Add .credentials.json to .gitignore",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Remove .credentials.json from git tracking",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  }
+]
