@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Configure Render.com deployment for production environment",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Set up domain (shesocial.tw) with SSL certificates",
+    "status": "in_progress",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Integrate Cloudinary for media upload and processing",
+    "status": "pending",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Implement LINE Pay sandbox integration and testing",
+    "status": "pending",
+    "priority": "high",
+    "id": "4"
+  }
+]

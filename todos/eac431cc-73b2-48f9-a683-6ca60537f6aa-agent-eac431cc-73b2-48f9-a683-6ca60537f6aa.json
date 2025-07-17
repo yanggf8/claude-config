@@ -1,0 +1,86 @@
+[
+  {
+    "content": "實現訪客活動瀏覽限制 (3個活動)",
+    "status": "completed",
+    "priority": "high",
+    "id": "visitor_activity_limit"
+  },
+  {
+    "content": "實現註冊會員活動瀏覽限制 (12個活動)",
+    "status": "completed",
+    "priority": "high",
+    "id": "registered_member_limit"
+  },
+  {
+    "content": "實現升級提示系統",
+    "status": "completed",
+    "priority": "high",
+    "id": "upgrade_prompt_system"
+  },
+  {
+    "content": "測試活動限制功能",
+    "status": "completed",
+    "priority": "high",
+    "id": "test_activity_limits"
+  },
+  {
+    "content": "實現權限原子化設計",
+    "status": "completed",
+    "priority": "high",
+    "id": "permission_atomization"
+  },
+  {
+    "content": "建立動態角色配置",
+    "status": "completed",
+    "priority": "high",
+    "id": "dynamic_role_configuration"
+  },
+  {
+    "content": "開發權限管理界面",
+    "status": "completed",
+    "priority": "high",
+    "id": "permission_management_ui"
+  },
+  {
+    "content": "創建管理員儀表板主頁",
+    "status": "completed",
+    "priority": "high",
+    "id": "admin_dashboard_main"
+  },
+  {
+    "content": "實現角色編輯器界面",
+    "status": "completed",
+    "priority": "high",
+    "id": "role_editor_interface"
+  },
+  {
+    "content": "實現用戶管理面板",
+    "status": "completed",
+    "priority": "high",
+    "id": "user_management_panel"
+  },
+  {
+    "content": "實現審計日誌檢視器",
+    "status": "completed",
+    "priority": "medium",
+    "id": "audit_log_viewer"
+  },
+  {
+    "content": "測試管理員登入系統",
+    "status": "completed",
+    "priority": "high",
+    "id": "test_admin_login"
+  },
+  {
+    "content": "在瀏覽器中測試完整管理員儀表板",
+    "status": "completed",
+    "priority": "high",
+    "id": "test_admin_dashboard_browser"
+  },
+  {
+    "content": "實現支付系統整合",
+    "status": "pending",
+    "priority": "high",
+    "id": "payment_system_integration"
+  }
+]

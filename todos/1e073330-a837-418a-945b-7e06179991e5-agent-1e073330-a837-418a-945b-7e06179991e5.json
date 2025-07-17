@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Implement complete event creation form with all required fields",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add form validation for event creation",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Integrate event creation with admin API",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Test event creation functionality",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

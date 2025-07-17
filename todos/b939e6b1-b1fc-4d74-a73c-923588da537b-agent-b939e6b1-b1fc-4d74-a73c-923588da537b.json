@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Add ESC key support for modal windows",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Create dedicated pricing page with route",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Replace modal with navigation to pricing page",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Update routing system for new page",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]

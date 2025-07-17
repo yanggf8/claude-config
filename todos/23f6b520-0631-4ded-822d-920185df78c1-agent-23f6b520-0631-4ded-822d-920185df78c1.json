@@ -1,0 +1,38 @@
+[
+  {
+    "content": "Run git status to check current changes",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Run git diff to review changes",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Review recent commits for message style",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Add files to staging area",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Create commit with appropriate message",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Push changes to remote repository",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  }
+]

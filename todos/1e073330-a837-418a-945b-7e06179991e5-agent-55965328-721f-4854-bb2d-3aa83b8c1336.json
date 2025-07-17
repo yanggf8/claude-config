@@ -1,0 +1,44 @@
+[
+  {
+    "content": "Fix missing state variables in RoleManagement.tsx (setShowCreateModal, setEditingRole)",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Fix missing state variable in AuthModal.tsx (setShowEnhancedRegistration)",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Fix missing hasPermission in EventForm.tsx and loadEventData hoisting issue",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Fix InterviewBooking.tsx - missing types and handleBookInterview function",
+    "status": "completed",
+    "priority": "high",
+    "id": "4"
+  },
+  {
+    "content": "Fix EnhancedRegistration.tsx - missing handleInputChange function and type issues",
+    "status": "completed",
+    "priority": "high",
+    "id": "5"
+  },
+  {
+    "content": "Fix PersonalizedRecommendation.tsx - missing useCallback import and type issues",
+    "status": "completed",
+    "priority": "high",
+    "id": "6"
+  },
+  {
+    "content": "Fix EventData type incompatibility issues",
+    "status": "completed",
+    "priority": "medium",
+    "id": "7"
+  }
+]
