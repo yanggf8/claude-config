@@ -1,0 +1,26 @@
+[
+  {
+    "content": "Create luxury cards with golden backgrounds",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Implement golden border outline variants",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Add selection states and hover effects",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  },
+  {
+    "content": "Create button variants with golden styling",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  }
+]
