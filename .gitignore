@@ -9,7 +9,6 @@ ide/*.lock
 
 # Session data
 projects/
-todos/
 
 # Failed logs
 statsig/*.failed_logs.*
