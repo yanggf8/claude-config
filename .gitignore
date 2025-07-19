@@ -3,3 +3,6 @@
 statsig/statsig.cached.evaluations.*
 statsig/statsig.session_id.*
 statsig/statsig.last_modified_time.*
+
+# IDE lock files
+ide/*.lock
