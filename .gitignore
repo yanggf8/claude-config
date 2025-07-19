@@ -8,7 +8,7 @@ statsig/statsig.last_modified_time.*
 ide/*.lock
 
 # Session data
-projects/
+# (removed projects/ and todos/ to enable work continuity between locations)
 
 # Failed logs
 statsig/*.failed_logs.*
