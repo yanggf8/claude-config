@@ -1,0 +1,32 @@
+[
+  {
+    "content": "Switch QueryAdapter to use new database structure",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Update key services to use optimized database access",
+    "status": "completed",
+    "priority": "high",
+    "id": "2"
+  },
+  {
+    "content": "Test system functionality with new database",
+    "status": "completed",
+    "priority": "high",
+    "id": "3"
+  },
+  {
+    "content": "Monitor performance improvements",
+    "status": "completed",
+    "priority": "medium",
+    "id": "4"
+  },
+  {
+    "content": "Plan legacy cleanup after validation period",
+    "status": "completed",
+    "priority": "low",
+    "id": "5"
+  }
+]

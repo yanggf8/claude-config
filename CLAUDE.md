@@ -25,6 +25,10 @@
 - Use merge strategy for pulls: `git pull --no-rebase`
 - For unrelated histories: `git pull --no-rebase --allow-unrelated-histories`
 
+### Cross-Location Workflow
+- Pull before starting work: `git pull`
+- Commit and push at milestones: `git add . && git commit -m "milestone message" && git push`
+
 - update docs before commit
 
 ## Database Considerations

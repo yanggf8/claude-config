@@ -1,0 +1,20 @@
+[
+  {
+    "content": "Commit current .gitignore changes",
+    "status": "completed",
+    "priority": "high",
+    "id": "1"
+  },
+  {
+    "content": "Add additional patterns to .gitignore (projects/, todos/, statsig failed logs)",
+    "status": "completed",
+    "priority": "medium",
+    "id": "2"
+  },
+  {
+    "content": "Commit updated .gitignore with session data patterns",
+    "status": "completed",
+    "priority": "medium",
+    "id": "3"
+  }
+]
