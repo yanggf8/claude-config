@@ -6,3 +6,10 @@ statsig/statsig.last_modified_time.*
 
 # IDE lock files
 ide/*.lock
+
+# Session data
+projects/
+todos/
+
+# Failed logs
+statsig/*.failed_logs.*
